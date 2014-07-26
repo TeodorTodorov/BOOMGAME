@@ -1,0 +1,10 @@
+C:\Users\Tedowe\Desktop\New folder\trunk\BombGame\BombGame\bin\Debug\BombGame.exe.config
+C:\Users\Tedowe\Desktop\New folder\trunk\BombGame\BombGame\bin\Debug\BombGame.exe
+C:\Users\Tedowe\Desktop\New folder\trunk\BombGame\BombGame\bin\Debug\BombGame.pdb
+C:\Users\Tedowe\Desktop\New folder\trunk\BombGame\BombGame\obj\Debug\BombGame.csprojResolveAssemblyReference.cache
+C:\Users\Tedowe\Desktop\New folder\trunk\BombGame\BombGame\obj\Debug\BombGame.exe
+C:\Users\Tedowe\Desktop\New folder\trunk\BombGame\BombGame\obj\Debug\BombGame.pdb
+C:\Users\Tedowe\Desktop\New folder\trunk\BombGame\BombGame\bin\Debug\BombGame.exe.manifest
+C:\Users\Tedowe\Desktop\New folder\trunk\BombGame\BombGame\bin\Debug\BombGame.application
+C:\Users\Tedowe\Desktop\New folder\trunk\BombGame\BombGame\obj\Debug\BombGame.exe.manifest
+C:\Users\Tedowe\Desktop\New folder\trunk\BombGame\BombGame\obj\Debug\BombGame.application
